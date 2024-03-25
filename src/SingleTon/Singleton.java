@@ -1,2 +1,4 @@
-package SingleTon;public class Singleton {
+package SingleTon;
+
+public class Singleton {
 }
